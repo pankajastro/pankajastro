@@ -25,7 +25,7 @@ Contributor to multiple open-source initiatives with a special focus on orchestr
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Core Java](https://img.shields.io/badge/-Core%20Java-333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
 ![Go](https://img.shields.io/badge/-Golang-333?style=flat&logo=go)
 
 ---
@@ -48,7 +48,7 @@ Contributor to multiple open-source initiatives with a special focus on orchestr
 
 ### 🧠 Currently Focusing
 
-- 🧩 Enhancing modularity in **dag-factory**
+- 🧩 Enhancing the **dag-factory**
 - 🌠 Contributing to **astronomer-cosmos** for seamless dbt orchestration
 
 ---
