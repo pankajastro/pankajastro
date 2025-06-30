@@ -55,8 +55,9 @@ Contributor to multiple open-source initiatives with a special focus on orchestr
 
 ### 📝 Blogs & Articles
 
-- [Asynchronous dbt + BigQuery with Airflow + Cosmos](https://medium.com/apache-airflow/introduction-to-asynchronous-dbt-bigquery-orchestration-with-apache-airflow-and-cosmos-3fd19f348585)
 - [Source Node Rendering in Cosmos](https://www.astronomer.io/blog/native-support-for-source-node-rendering-in-cosmos)
+- [Async dbt-core + BigQuery Workflow Using Airflow and Cosmos](https://medium.com/apache-airflow/introduction-to-asynchronous-dbt-bigquery-orchestration-with-apache-airflow-and-cosmos-3fd19f348585)
+- [Introducing Cosmos 1.6: The Best Way to Run dbt-core in Airflow](https://www.astronomer.io/blog/introducing-cosmos-1-6/)
 - [Blockchain Offload Security](https://www.fortanix.com/blog/blockchain-offload-security-concerns-to-dsm)
 
 ---
