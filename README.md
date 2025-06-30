@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/pankajiam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="https://stackoverflow.com/users/3738751/pankaj-singh">
+    <img src="https://img.shields.io/badge/StackOverflow-@pankaj--singh-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
   <a href="https://x.com/pankajiam_">
     <img src="https://img.shields.io/badge/X-@pankajiam__-blue?logo=twitter" alt="Twitter/X">
   </a>
@@ -67,6 +70,7 @@ Contributor to multiple open-source initiatives with a special focus on orchestr
 - 💼 [LinkedIn](https://www.linkedin.com/in/pankajiam/)
 - 🧑‍💻 [GitHub](https://github.com/pankajastro)
 - 🐦 [X / Twitter](https://x.com/pankajiam_)
+- 📚 [Stack Overflow](https://stackoverflow.com/users/3738751/pankaj-singh)
 
 ---
 
