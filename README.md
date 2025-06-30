@@ -70,7 +70,6 @@ Contributor to multiple open-source initiatives with a special focus on orchestr
 - 💼 [LinkedIn](https://www.linkedin.com/in/pankajiam/)
 - 🧑‍💻 [GitHub](https://github.com/pankajastro)
 - 🐦 [X / Twitter](https://x.com/pankajiam_)
-- 📚 [Stack Overflow](https://stackoverflow.com/users/3738751/pankaj-singh)
 
 ---
 
